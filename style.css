@@ -111,6 +111,10 @@ nav a:hover {
   font-size: 0.9rem;
 }
 
+.header__form input:focus{
+    outline:none;
+}
+
 .header__cart__icon img {
   width: 24px;
   height: 24px;
